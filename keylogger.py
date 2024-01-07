@@ -1,5 +1,6 @@
 import pynput.keyboard
 from pynput.keyboard import Key
+import threading
 
 log = ""
 
